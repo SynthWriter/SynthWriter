@@ -5,7 +5,7 @@
 <br />
 <br />
 
-- 👀 I’m interested in ... at
+- 👀 I’m interested in ... a lot!
 - 🌱 I’m currently learning more on Machine Learning Algorithms and Advanced Statistics (particularly Gradient Descent)
 - 💞️ I’m looking to collaborate on data science projects
 
