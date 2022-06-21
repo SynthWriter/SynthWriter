@@ -15,7 +15,7 @@
 [![website]<img align="left" alt="Website" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Website_logo_2.png" />
 &nbsp;&nbsp;
 
-Website coming soon!
+Website coming soonish!
 
 <!--
 ### Test
