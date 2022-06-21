@@ -1,16 +1,13 @@
 # Hi there, I'm Remy - aka SynthWriter 👋
 
-## I'm a Senior Financial Analyst with experience in the Commercial Real Estate sector, a Masters in International Real Estate (MSIRE), and a passion for data science.
+## I'm a Senior Financial Analyst with experience in the Commercial Real Estate sector, a Masters of Science in International Real Estate (MSIRE), and an intellectual passion for data science.
 
 <br />
 <br />
 
-
-- 👋 Hi, I’m @SynthWriter
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning more on Machine Learning Algorithms and Advanced Statistics (particularly Gradient Descent)
+- 💞️ I’m looking to collaborate on data science projects
 
 ### Connect with me:
 [![website]<img align="left" alt="LinkedIn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
