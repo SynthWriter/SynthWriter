@@ -47,8 +47,10 @@ Website coming soonish!
 <br />
 
 ### Specialized for CRE (Commercial Real Estate)
+<!-- 
 <img align="left" alt="CoStar" width="69px" src="https://s3-symbol-logo.tradingview.com/costar-group--600.png" style="padding-right:80px;" />
-<img align="left" alt="ARGUS Enterprise" width="69px" src="https://s3-symbol-logo.tradingview.com/costar-group--600.png" style="padding-right:80px;" />
+-->
+<img align="left" alt="ARGUS Enterprise" width="69px" src="https://www.insightpartners.com//assets/media/2018/03/argus.png" style="padding-right:80px;" />
 <img align="left" alt="CoStar" width="148px" src="https://www.nqgap.com/nq-content/uploads/resource-logo_costar.png" style="padding-right:80px;" />
 
 <!--
@@ -74,11 +76,6 @@ Airtable
 Microsoft 365
 Asana
 -->
-
-
-<img align="left" alt="Numpy" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:80px;" />
-<img align="left" alt="MySQL" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:80px;" />
-
 
 </details>
 
