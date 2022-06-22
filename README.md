@@ -14,7 +14,7 @@ Alternate idea (adding LinkedIn + Website icons)
 - 🌱 I’m currently learning more on:
   - Machine learning models
   - Optimization algorithms (particularly gradient descent)
-  - Specialized statistical methods
+  - Specialized statistical methods for analyzing financial data
 - 📊 I’m looking to collaborate on more data science projects
 - ☕ Fun fact: I'm a dad to two cats
 - 💬 Ask me anything, I'm always open to talk and share experiences
