@@ -9,7 +9,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <img align="left" alt="Website" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Website_logo_2.png" />
 -->
 
-## I'm a Senior Financial Analyst with 3.5+ years of experience in the Commercial Real Estate industry and a Masters of Science in International Real Estate (MSIRE). <br /> <br /> I have a profound intellectual passion for data science.
+## I'm a Senior Financial Analyst with 3.5+ years of experience in the Commercial Real Estate industry and a Masters of Science in International Real Estate (MSIRE). <br /> <br /> I have a profound intellectual passion for finance and data science.
 
 - 🌱 I’m currently learning more on:
   - Machine learning models
