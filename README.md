@@ -56,7 +56,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 <br />
 
-### For Organization and Productivity
+### For Team Organization + Productivity
 <img align="left" alt="Notion" width="69px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />
 <img align="left" alt="Slack" width="69px" src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" style="padding-right:80px;" />
 <img align="left" alt="Teams" width="110px" src="https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png" style="padding-right:80px;" />
