@@ -6,8 +6,15 @@
 <br />
 
 - 🌱 I’m currently learning more on the intricacies of machine learning models, statistical methods, and optimization algorithms (particularly gradient descent)
+
+<!--
+Break the learning item (above) into numerated list (1,2,3)
+-->
+
+
 - 📊 I’m looking to collaborate on more data science projects
 - ☕ Fun fact: Apparently, I make a mean espresso
+- 💬 Ask me anything, I'm always open to talk and share experiences
 
 ### Connect with me:
 <img align="left" alt="LinkedIn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
