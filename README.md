@@ -5,23 +5,29 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning more on the intricacies of machine learning models, statistical methods, and optimization algorithms (particularly gradient descent)
+- 🌱 I’m currently learning more on:
+  - Specialized machine learning models
+  - Statistical methods
+  - Optimization algorithms (particularly gradient descent)
 
 <!--
 Break the learning item (above) into numerated list (1,2,3)
 -->
-
 
 - 📊 I’m looking to collaborate on more data science projects
 - ☕ Fun fact: I'm a dad to two cats
 - 💬 Ask me anything, I'm always open to talk and share experiences
 
 ### Connect with me
-<img align="left" alt="LinkedIn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+
+<a href="https://linkedin.com/in/remy-marin"><img align="left" alt="LinkedIn" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
+
+<br />
+<!--
 <img align="left" alt="Website" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Website_logo_2.png" />
 
 (Website coming soon)
-
+-->
 <!--
 ### Test
 <img align="left" alt="ARGUS Enterprise" width="69px" src="https://www.insightpartners.com//assets/media/2018/03/argus.png" style="padding-bottom: 90px;" />
