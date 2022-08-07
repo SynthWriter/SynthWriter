@@ -16,7 +16,7 @@ Alternate idea (adding LinkedIn + Website icons)
   - Optimization algorithms (particularly gradient descent)
   - Specialized statistical methods for analyzing financial data
 - 📊 I’m looking to collaborate on more data science projects
-- ☕ Fun fact: I'm a dad to two cats
+- ☕ Fun fact: I love to play tennis and go rock climbing
 - 💬 Ask me anything, I'm always open to talk and share experiences
 
 ## Languages and Tools
@@ -35,11 +35,20 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 <br />
 
-### Data Plotting + Visualizations + Presentation
+### Data Plotting + Visualization + Presentation
 <a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="160px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" style="padding-top:10px;" /><a/>
 <a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-top:20px;" /><a/>
 <a href="https://powerbi.microsoft.com/en-us/"><img align="left" alt="Power BI" width="118px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" style="padding-right:10px;" /><a/>
 <a href="https://www.tableau.com/"><img align="left" alt="Tableau" width="148px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" style="padding: 50px 10px;" /><a/>
+
+<br />
+<br />
+<br />
+<br />
+
+### Spatial Analysis + Geospatial Visualization
+<a href="https://ipyleaflet.readthedocs.io/en/latest/usage/index.html"><img align="left" alt="IpyLeaflet" width="160px" src="https://miro.medium.com/max/1838/0*aPvM-7TR9IbP_NXO.png" style="padding-top:10px;" /><a/>
+<a href="https://python-visualization.github.io/folium/"><img align="left" alt="Folium" width="60px" src="https://tarun-kamboj.github.io/images/tools/folium.png" style="padding-top:20px;" /><a/>
 
 <br />
 <br />
