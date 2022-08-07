@@ -55,6 +55,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 <br />
 <br />
+<br />
 
 ### Specialized for CRE (Commercial Real Estate)
 <a href="https://www.altusgroup.com/argus/argus-enterprise/"><img align="left" alt="ARGUS Enterprise" width="140px" src="https://www.insightpartners.com//assets/media/2018/03/argus.png" style="padding-right:80px;" /><a/>
@@ -66,7 +67,6 @@ Alternate idea (adding LinkedIn + Website icons)
 <!-- Light theme logo --> 
 <a href="https://www.costar.com/products/analytics"><img align="left" alt="CoStar" width="160px" src="https://www.as-r.co.uk/wp-content/uploads/2021/09/costar.png" style="padding-right:80px;" /><a/>
 
-<br />
 <br />
 <br />
 <br />
