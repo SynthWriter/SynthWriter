@@ -47,9 +47,9 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 
 ### Spatial Analysis + Geospatial Visualization
-<a href="https://ipyleaflet.readthedocs.io/en/latest/usage/index.html"><img align="left" alt="IpyLeaflet" width="160px" src="https://miro.medium.com/max/1838/0*aPvM-7TR9IbP_NXO.png" style="padding-top:10px;" /><a/>
+<a href="https://ipyleaflet.readthedocs.io/en/latest/usage/index.html"><img align="left" alt="IpyLeaflet" width="69px" src="https://user-images.githubusercontent.com/102639530/183298851-50996e80-1a34-442c-ac4c-a1a04297158f.png" style="padding-top:20px;" /><a/>
 <a href="https://geopandas.org/en/latest/about.html"><img align="left" alt="Geopandas" width="79px" src="https://geopandas.org/en/latest/_images/geopandas_icon.png" style="padding-top:20px;" /><a/>
-<a href="https://python-visualization.github.io/folium/"><img align="left" alt="Folium" width="70px" src="https://tarun-kamboj.github.io/images/tools/folium.png" style="padding-top:20px;" /><a/>
+<a href="https://python-visualization.github.io/folium/"><img align="left" alt="Folium" width="69px" src="https://tarun-kamboj.github.io/images/tools/folium.png" style="padding-top:20px;" /><a/>
 
 <br />
 <br />
