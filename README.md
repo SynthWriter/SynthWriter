@@ -27,6 +27,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <a href="https://azure.microsoft.com/en-in/services/developer-tools/data-studio/#features"><img align="left" alt="Azure Data Studio" width="69px" src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png" style="padding-right:80px;" /><a/>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="69px" src="https://cdn.jsdelivr.net/npm/devicon@2.0.0/icons/python/python-original.svg" style="padding-right:80px;" /><a/>
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:80px;" /><a/>
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="220px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png&f=1&nofb=1" style="padding-right:80px;" /><a/>
 <a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:80px;" /><a/>
 <a href="https://numpy.org/"><img align="left" alt="Numpy" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" /><a/>
 
@@ -58,8 +59,12 @@ Alternate idea (adding LinkedIn + Website icons)
 
 ### Specialized for CRE (Commercial Real Estate)
 <a href="https://www.altusgroup.com/argus/argus-enterprise/"><img align="left" alt="ARGUS Enterprise" width="140px" src="https://www.insightpartners.com//assets/media/2018/03/argus.png" style="padding-right:80px;" /><a/>
+<!--
+<a href="https://www.costar.com/products/analytics"><img align="left" alt="CoStar" width="160px" src="https://www.underconsideration.com/brandnew/archives/CoStar_Group_logo_detail.png" style="padding-right:80px;" /><a/>
 <a href="https://www.costar.com/products/analytics"><img align="left" alt="CoStar" width="160px" src="https://www.nqgap.com/nq-content/uploads/resource-logo_costar.png" style="padding-right:80px;" /><a/>
-
+<a href="https://www.costar.com/products/analytics"><img align="left" alt="CoStar" width="160px" src="https://www.selectleaders.com/wp-content/themes/selectleaders/images/clients/featured-employers/Costar_400x400.png" style="padding-right:80px;" /><a/>
+-->
+<a href="https://www.costar.com/products/analytics"><img align="left" alt="CoStar" width="160px" src="https://www.as-r.co.uk/wp-content/uploads/2021/09/costar.png" style="padding-right:80px;" /><a/>
 
 <br />
 <br />
