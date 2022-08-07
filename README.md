@@ -27,9 +27,12 @@ Alternate idea (adding LinkedIn + Website icons)
 <a href="https://azure.microsoft.com/en-in/services/developer-tools/data-studio/#features"><img align="left" alt="Azure Data Studio" width="69px" src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png" style="padding-right:80px;" /><a/>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="69px" src="https://cdn.jsdelivr.net/npm/devicon@2.0.0/icons/python/python-original.svg" style="padding-right:80px;" /><a/>
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:80px;" /><a/>
-<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="220px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png&f=1&nofb=1" style="padding-right:80px;" /><a/>
-<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:80px;" /><a/>
 <a href="https://numpy.org/"><img align="left" alt="Numpy" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" /><a/>
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="220px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png&f=1&nofb=1" style="padding-right:80px;" /><a/>
+<!--
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:80px;" /><a/>
+-->
+
 
 <br />
 <br />
@@ -37,10 +40,10 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 
 ### Data Plotting + Visualization + Presentation
-<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="160px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" style="padding-top:10px;" /><a/>
-<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="160px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-top:20px;" /><a/>
+<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="220px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" style="padding-top:10px;" /><a/>
+<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="220px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-top:20px;" /><a/>
 <a href="https://powerbi.microsoft.com/en-us/"><img align="left" alt="Power BI" width="118px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" style="padding-right:10px;" /><a/>
-<a href="https://www.tableau.com/"><img align="left" alt="Tableau" width="148px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" style="padding: 50px 10px;" /><a/>
+<a href="https://www.tableau.com/"><img align="left" alt="Tableau" width="190px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" style="padding: 50px 10px;" /><a/>
 
 <br />
 <br />
