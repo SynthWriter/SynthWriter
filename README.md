@@ -21,7 +21,7 @@ Alternate idea (adding LinkedIn + Website icons)
 
 ## Languages and Tools
 
-### Exploratory Data Analysis + Model Building
+### Exploratory Data Analysis + Model Building Data Plotting + Visualization + Presentation
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-left:150px;" /><a/>
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="69px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:80px;" /><a/>
 <a href="https://azure.microsoft.com/en-in/services/developer-tools/data-studio/#features"><img align="left" alt="Azure Data Studio" width="69px" src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png" style="padding-right:80px;" /><a/>
