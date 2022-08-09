@@ -36,10 +36,12 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 
 ### Data Plotting + Visualization + Presentation
-<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="220px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" style="padding-top:10px;" /><a/>
-<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="220px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-top:20px;" /><a/>
-<a href="https://powerbi.microsoft.com/en-us/"><img align="left" alt="Power BI" width="118px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" style="padding-right:10px;" /><a/>
-<a href="https://www.tableau.com/"><img align="left" alt="Tableau" width="190px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" style="padding: 50px 10px;" /><a/>
+<a href="https://seaborn.pydata.org/"><img align="left" alt="Seaborn" width="180px" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" style="padding-top:10px;" /><a/>
+<a href="https://matplotlib.org/"><img align="left" alt="Matplotlib" width="180px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-top:20px;" /><a/>
+<a href="https://microsoft.github.io/SandDance/"><img align="left" alt="SandDance" width="180px" src="https://user-images.githubusercontent.com/102639530/183707075-279c67b4-cf20-42fd-91bf-945bcc2bf1ba.png" style="padding-top:20px;" /><a/>
+<a href="https://powerbi.microsoft.com/en-us/"><img align="left" alt="Power BI" width="90px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" style="padding-top:20px;" /><a/>
+<a href="https://www.tableau.com/"><img align="left" alt="Tableau" width="180px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" style="padding-bottom:60px;" /><a/>
+
 
 <br />
 <br />
@@ -72,7 +74,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <br />
 
 ### For Team Organization + Productivity
-<a href="https://www.notion.so/"><img align="left" alt="Notion" width="69px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" /><a/>
+<a href="https://www.notion.so/"><img align="left" alt="Notion" width="69px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" style="padding-right:80px;" /><a/>
 <a href="https://slack.com/"><img align="left" alt="Slack" width="69px" src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" style="padding-right:80px;" /><a/>
 <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"><img align="left" alt="Teams" width="110px" src="https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png" style="padding-right:80px;" /><a/>
 <a href="https://www.airtable.com/"><img align="left" alt="Airtable" width="69px" src="https://outfunnel.com/wp-content/uploads/2020/12/airtable-icon.png" style="padding-right:80px;" /><a/>
