@@ -9,7 +9,7 @@ Alternate idea (adding LinkedIn + Website icons)
 <img align="left" alt="Website" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Website_logo_2.png" />
 -->
 
-## I'm a Senior Financial Analyst with 3.5+ years of experience in the Commercial Real Estate industry and a Masters of Science in Commercial Real Estate Finance. <br /> <br /> I am also a certified Business Intelligence & Data Analyst who shares a profound intellectual passion for both finance and data science.
+## A passionate Senior Data Analyst with a strong foundation in corporate finance, who specializes in helping businesses unlock the full potential of their data to drive performance and strategic decision-making. With a Master's in Commercial Real Estate Finance and years of experience in both finance and data analytics, I bring a unique perspective that seamlessly integrates financial acumen with advanced data-driven solutions.
 
 - 🌱 I’m currently learning more on:
   - Machine learning models
